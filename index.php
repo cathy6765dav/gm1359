@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.barklyandmew.ca/services/");
+header("Location: https://youtactt.herokuapp.com/");
 die();
 ?>
